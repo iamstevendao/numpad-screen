@@ -12,4 +12,5 @@ For any enquiries, please contact me:
 - Icons included
 
 ## Credits
-Screen shots used sample images of Steven Gerrard, Daniel Agger and Jurgen Klopp.
+- Icons created by [fa2png.io](http://fa2png.io/)
+- Screen shots used sample images of [Steven Gerrard](https://en.wikipedia.org/wiki/Steven_Gerrard), [Daniel Agger](https://en.wikipedia.org/wiki/Daniel_Agger) and [Jurgen Klopp](https://en.wikipedia.org/wiki/J%C3%BCrgen_Klopp)
